@@ -1,0 +1,12 @@
+C:\Users\s00048021\Documents\GitHub\CasualGames\BiscuitBasher\BiscuitBasher\BiscuitBasher\obj\x86\Debug\BiscuitBasher.csprojResolveAssemblyReference.cache
+C:\Users\s00048021\Documents\GitHub\CasualGames\BiscuitBasher\BiscuitBasher\BiscuitBasher\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\s00048021\Documents\GitHub\CasualGames\BiscuitBasher\BiscuitBasher\BiscuitBasher\bin\x86\Debug\Content\Fonts\sfont.xnb
+C:\Users\s00048021\Documents\GitHub\CasualGames\BiscuitBasher\BiscuitBasher\BiscuitBasher\bin\x86\Debug\Content\Fonts\debug.xnb
+C:\Users\s00048021\Documents\GitHub\CasualGames\BiscuitBasher\BiscuitBasher\BiscuitBasher\bin\x86\Debug\Biscuit Basher.exe
+C:\Users\s00048021\Documents\GitHub\CasualGames\BiscuitBasher\BiscuitBasher\BiscuitBasher\bin\x86\Debug\Biscuit Basher.pdb
+C:\Users\s00048021\Documents\GitHub\CasualGames\BiscuitBasher\BiscuitBasher\BiscuitBasher\obj\x86\Debug\Biscuit Basher.exe
+C:\Users\s00048021\Documents\GitHub\CasualGames\BiscuitBasher\BiscuitBasher\BiscuitBasher\obj\x86\Debug\Biscuit Basher.pdb
+C:\Users\s00048021\Documents\GitHub\CasualGames\BiscuitBasher\BiscuitBasher\BiscuitBasher\bin\x86\Debug\Content\Textures\hammer.xnb
+C:\Users\s00048021\Documents\GitHub\CasualGames\BiscuitBasher\BiscuitBasher\BiscuitBasher\bin\x86\Debug\Content\Models\block.xnb
+C:\Users\s00048021\Documents\GitHub\CasualGames\BiscuitBasher\BiscuitBasher\BiscuitBasher\bin\x86\Debug\Content\Textures\blank.xnb
+C:\Users\s00048021\Documents\GitHub\CasualGames\BiscuitBasher\BiscuitBasher\BiscuitBasher\bin\x86\Debug\Content\Textures\blank_0.xnb

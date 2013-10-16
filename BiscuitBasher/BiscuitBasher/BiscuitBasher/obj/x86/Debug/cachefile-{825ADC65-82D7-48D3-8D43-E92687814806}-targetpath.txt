@@ -1,0 +1,6 @@
+Content\Fonts\sfont.xnb
+Content\Fonts\debug.xnb
+Content\Textures\hammer.xnb
+Content\Models\block.xnb
+Content\Textures\blank.xnb
+Content\Textures\blank_0.xnb
